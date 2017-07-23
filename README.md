@@ -1,2 +1,2 @@
 # Awesome-Bioinformatics
-Curated List of awesome Bioinformatics resources
+Curated List of awesome Bioinformatics resources.
